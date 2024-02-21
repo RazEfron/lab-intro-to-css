@@ -16,12 +16,17 @@ In this lab, you'll have the opportunity to design a personal webpage. The conte
 
 ## Instructions
 
-To complete the tests in this lab, you will need to add the following styles. If you're unclear about any of the instructions below, remember that you can check the test file to see what exactly is being tested.
+To complete the lab, you will need to add the following styles. 
+
+1. Change the text of the `h1` to your name
+1. Create a `style.css` file and link it to the `index.html` file
+1. In the created file include the following stylings. Remember, you can always check the screenshot in the assets folder - 
 
 - Change the font of the name header to be `'Fantasy'` and purple.
-- Remove the bullet points from your unordered list of links.
+- Remove the bullet points from your unordered lists.
 - Change the `font-weight` in your ordered list to bold.
 - Center all `li` elements on the page.
+- Center the `img` so it's always in the center no matter the size of the window
 - Give your `li` elements a 1px red border with curved corners.
 - Change the font color of your `li` elements to blue and the background color to a light pink.
 - All images should be 200 pixels tall.
